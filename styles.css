@@ -3,6 +3,7 @@
 }
 body{
     margin: 20px;
+    
 }
 .card{
     width: 400px;
@@ -11,7 +12,9 @@ body{
     padding: 20px;
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 .border-blue{
     border: 1px dotted blue;
+   
 }
